@@ -1,6 +1,7 @@
 # Syed Hunain Akbar
 
 **Analytics Engineer | Data Modeling & Pipelines | Finance & Product Metrics**
+
 MS Business Analytics (Big Data, STEM), W. P. Carey School of Business, ASU (4.0 GPA, Dec 2026)
 
 I build trusted data products: ELT pipelines, dimensional models, metric frameworks and AI agents that turn messy data into decisions.
